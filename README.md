@@ -48,6 +48,6 @@ BLoC for state management https://pub.dev/packages/flutter_bloc
   
 Instruction to build and run app:
 
-download the project and open using visual studio code
-go to pubspec.yaml and run "flutter pub get" to download required library
-run it on simulator or real device
+- download the project and open using visual studio code
+- go to pubspec.yaml and run "flutter pub get" to download required library
+- run it on simulator or real device
