@@ -9,7 +9,7 @@ This project is a starting point for a Flutter application.
 Answer:
 
 1. For task no 1 I've research for large data sets the insertion sort is the fastest 
-
+```
 void main() {
   List<int> listOfHeight = [20,120,121,132,123,220,192,179,20,198,125,140,123,210];
   
@@ -32,7 +32,7 @@ void main() {
   listOfHeight.sort();
   print(listOfHeight);
 }
-  
+```
 2. For task no 2
 
 This application has been tested on Android Redmi 9 (Android 10, MIUI 11) and iPhone XR (iOS 14.5).
