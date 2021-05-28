@@ -36,13 +36,15 @@ void main() {
 2. For task no 2
 
 This application has been tested on Android Redmi 9 (Android 10, MIUI 11) and iPhone XR (iOS 14.5).
+
 Minimum Requirement:
-Android SDK 16 (Android 4.1)
-iOS 9.0
+- Android SDK 16 (Android 4.1)
+- iOS 9.0
   
 Recommended Requirement:
-Android SDK 27 (Android 8.1)
-iOS 13
+
+- Android SDK 27 (Android 8.1)
+- iOS 13
 
 BLoC for state management https://pub.dev/packages/flutter_bloc
   
